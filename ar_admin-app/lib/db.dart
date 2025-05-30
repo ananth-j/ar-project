@@ -1,7 +1,7 @@
 import 'package:mongo_dart/mongo_dart.dart';
 
 const ConnectorURL =
-    'mongodb+srv://ananth:ananth@cluster0.dchsjuv.mongodb.net/?retryWrites=true&w=majority';
+    'MONGO_DB_URL';
 
 class Connector {
   static var db, userCollection;
