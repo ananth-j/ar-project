@@ -9,7 +9,7 @@ This project consists of two Flutter apps:
 
 ### 1. 👤 Customer App
 Allows users to:
-- Sign up / Sign in
+- Sign up / Sign in 
 - Order from **4 types of water cans** with quantity selection
 - Edit delivery address
 - Cancel orders if needed
@@ -32,9 +32,6 @@ Gives admin the ability to:
 - **Firebase** – Authentication, Realtime Database  
 - **MongoDB Atlas** – Cloud-based database for storing customer and order data
 
-## 📸 Screenshots
-
-> _Add screenshots here for both Customer and Admin apps (Home, Orders, Admin Controls, etc.)_
 
 ## 🎯 Key Highlights
 
